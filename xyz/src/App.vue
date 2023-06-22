@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <div class="class">
       <p>This is amazingt</p>
+      <p>dev branch is created</p>
     </div>
     <router-view/>
   </div>
