@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <div class="github">
+      <p>This is a github page</p>
+    </div>
     <div class="class">
       <p>This is amazingt</p>
       <p>dev branch is created</p>
