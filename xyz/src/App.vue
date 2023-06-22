@@ -4,6 +4,9 @@
     <div class="class">
       <p>This is amazingt</p>
       <p>dev branch is created</p>
+      <div>
+        <p>This is feature 1</p>
+      </div>
     </div>
     <router-view/>
   </div>
